@@ -1,7 +1,7 @@
 public class NICE {
 
     public static void main(String[] args) {
-        int a, b,c;
+        int a, b, c;
 
         a = 100;
         b = 200;
