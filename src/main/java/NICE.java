@@ -1,10 +1,12 @@
 public class NICE {
 
     public static void main(String[] args) {
-        int a = 100;
-        int b = 200;
+        int a, b,c;
 
-        int c = a + b;
+        a = 100;
+        b = 200;
+
+        c = a + b;
 
         System.out.println(a + " + " + b + " = " + c);
     }
